@@ -24,16 +24,20 @@ continuously strive to improve my skills and contribute to impactful teams.
 <br clear="right"/>
 
 ## 🔧 My Tech Stack
-
+### Server <br> 
 ![Asp.net core](https://img.shields.io/badge/Asp.netcore-%23777BB4?logo=.Net&logoColor=Muvia)
 ![WebApi](https://img.shields.io/badge/WebApi-%2321759B.svg?logo=WebApi&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-%23777BB4.svg?&logo=MVC&logoColor=white)
 ![EntityFrameWork core](https://img.shields.io/badge/EFCore-3178C6?logo=EFCore&logoColor=white)
 ![SQlServer](https://img.shields.io/badge/SQlServer-61DAFB?logo=SQlServer&logoColor=black)
-![Linq](https://img.shields.io/badge/Linq-339933?logo=Linq&logoColor=white)
+![Linq](https://img.shields.io/badge/Linq-339933?logo=Linq&logoColor=white) <br>
+### Client <br>
 ![Html](https://img.shields.io/badge/Html-black?logo=Html&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-47A248?logo=CSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-4479A1?logo=JavaScript&logoColor=fff)
+![Angular](https://img.shields.io/badge/Angular-47A248?logo=Angular&logoColor=white)
+<br>
+### Other <br>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## 🔗 Connect with Me
